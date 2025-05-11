@@ -9,7 +9,7 @@ This repository showcases my experience in training state-of-the-art voice model
 * **Models:** VITS and Tacotron with Dynamic Decoder Convolution (DDC)
 * **Hardware (Optimized):** NVIDIA RTX 8000 ADA Generation GPU, AMD EPYC 128-Core Processor
 * **Local Training:** NVIDIA RTX 2070-based workstation
-* **Dataset:** LJSpeech-format, \~1 hour of audio (noted as minimal for high quality)
+* **Dataset:** LJSpeech-format, \~1 hour of audio (noted as minimal)
 
 The configuration files provided here were initially based on CoquiTTS scripts by Thorsten Müller and have been adapted to make efficient use of my hardware resources and dataset characteristics.
 
